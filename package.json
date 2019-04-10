@@ -1,0 +1,9 @@
+{
+  "name": "thanatos",
+  "version": "1.0.0",
+  "description": "Scrapper for Linkedin",
+  "main": "index.js",
+  "repository": "git@github.com:gtaltemann/thanatos.git",
+  "author": "Gabriel Altemann <gabriel@invisible.email>",
+  "license": "MIT"
+}
